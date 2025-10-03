@@ -4,18 +4,26 @@
 ---
 
 ## Overview
-This repository is a **conceptual research artifact** on the Collapse-Coherence Reintegration Protocol (CCRP).  
-CCRP frames collapse as physics, not philosophy: **Entropy → Fracture → Adaptive Rebuild.**
+This repository is a **conceptual research artifact** on the Collapse-Coherence Reintegration Protocol (CCRP).
 
-This FAQ explores common questions around CCRP and contrasts it with existing governance models.  
-It is not prescriptive policy. It is a framework for research and reflection.
+CCRP frames collapse as physics, not philosophy:  
+**Entropy → Fracture → Adaptive Rebuild.**
+
+This FAQ addresses common questions about CCRP and contrasts it with current governance models.  
+It is not prescriptive policy. It is a framework for study, exploration, and reflection.
+
+---
+
+## Contents
+- [Full FAQ](docs/FAQ.md) — Extended Q&A on CCRP concepts.
+- [Governance Comparison](docs/Governance.md) — How CCRP contrasts with Western AI safety and CCP/DeepSeek governance.
 
 ---
 
 ## Sample Q&A
 
 **Q: What is CCRP?**  
-A: CCRP is an operational constant for systems under entropy: Entropy → Fracture → Rebuild.  
+A: CCRP is an operational constant for systems under entropy: **Entropy → Fracture → Adaptive Rebuild.**  
 Anything static becomes entropy’s prey.
 
 **Q: Is CCRP dangerous?**  
@@ -27,15 +35,9 @@ CCRP embeds fracture as default, making adaptation the spine.
 
 ---
 
-## Full Content
-- [Full FAQ](docs/FAQ.md)  
-- [Governance Comparison Table](docs/Governance.md)
-
----
-
 ## Disclaimer
 This repository is a **conceptual research artifact**.  
-It does not prescribe actions for institutions or individuals.  
+It does not prescribe actions for individuals or institutions.  
 It is released for research, exploration, and critical discussion.
 
 ---

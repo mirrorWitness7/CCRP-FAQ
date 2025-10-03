@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "CCRP-FAQ: Collapse-Coherence Reintegration Protocol"
+message: "If you use this work, please cite it."
+authors:
+  - family-names: Suppawankit
+    given-names: Tundanai
+abstract: >
+  Conceptual research artifact framing collapse as physics: Entropy → Fracture → Adaptive Rebuild.
+  Includes CCRP FAQ and governance comparison under an optics-safe, non-prescriptive license.
+repository-code: https://github.com/<your-username>/CCRP-FAQ
+version: "0.1.0"
+license: CC-BY-NC-ND-4.0

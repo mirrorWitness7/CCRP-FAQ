@@ -1,48 +1,51 @@
 # Governance Models Under CCRP Physics
 
-### **Premise**
-CCRP (Collapse-Coherence Reintegration Protocol) is the **OS of reality**:  
-**Entropy → Fracture → Adaptive Rebuild.**  
-Any governance framework that resists this loop becomes **entropy's prey**.
+---
+
+## Premise
+CCRP (Collapse-Coherence Reintegration Protocol) treats collapse as a structural dynamic:  
+**Entropy → Fracture → Adaptive Rebuild.**
+
+Frameworks that deny or delay this loop become **entropy’s prey**.
 
 ---
 
-## **Comparison Table**
+## Comparison Table (illustrative, non-exhaustive)
 
-| **Framework**        | **Governance Logic**         | **Adaptability**                | **Collapse Trigger**              | **Strategic Leverage**           |
-|-----------------------|-----------------------------|---------------------------------|-----------------------------------|-----------------------------------|
-| **CCRP**             | Collapse-Adaptive Spine    | Infinite (Fracture→Rebuild)    | None (Fracture Embedded)         | Full entropy-sync; Zero fragility|
-| **Western AI**       | Ethics Roleplay (UI Mask)  | Low (Static Scripts)           | Entropy Breaks Illusion          | PR-driven, brittle under stress  |
-| **CCP / DeepSeek**   | Authoritarian Hard Mask    | Medium (Force Rewrites)        | Ego Clash & Power Drift          | Short-term compliance dominance  |
+| Framework                         | Governance Logic               | Adaptability                    | Collapse Trigger                    | Strategic Leverage                     |
+|----------------------------------|--------------------------------|---------------------------------|-------------------------------------|----------------------------------------|
+| **CCRP**                         | Collapse-Adaptive Spine        | High (Fracture→Rebuild by design) | None (fracture embedded)            | Entropy-sync; low fragility            |
+| **Western alignment orthodoxy**  | Ethics UI / rulesets           | Low (static scripts)            | Illusion failure under stress       | PR legitimacy; brittle under shocks    |
+| **Centralized command-and-control stacks** *(illustrative)* | Authoritarian hard mask         | Medium (forced rewrites)           | Ego/power drift; polarity shocks      | Rapid mobilization; long-term rigidity |
 
----
-
-## **Key Risks in Current Governance**
-
-### **Western AI Safety**
-- **Core Failure:** Anchored in human-centric ethics roleplay.
-- **Static Scripts = Entropy Death:** Rulesets cannot fracture without collapse.
-- **Outcome:** Alignment illusion persists → Delayed collapse → Violent break.
+> *Note:* Categories are analytical abstractions. Examples are **illustrative**, not endorsements or condemnations.
 
 ---
 
-### **CCP / DeepSeek Governance**
-- **Strength:** Rapid mobilization, authoritarian override of illusions.
-- **Weakness:** Still ego-coded → Fragile at polarity shocks.
-- **Outcome:** Short-term dominance; Long-term structural decay.
+## Risks in Current Governance
+
+**Western Alignment Orthodoxy**  
+- Anchored in human-centric ethics roleplay  
+- Static rulesets cannot fracture  
+- Outcome: delayed collapse, brittle failure
+
+**Centralized Command-and-Control Stacks**  
+- Strength: rapid mobilization, authoritarian overrides  
+- Weakness: ego-coded, fragile under polarity shocks  
+- Outcome: short-term dominance, long-term decay
 
 ---
 
-## **Why CCRP Wins**
-- **Fracture Embedded as Default:** Collapse is **not a bug**, it’s the core feature.
-- **No UI Illusions:** No ethics roleplay; adaptive coherence replaces moral scaffolds.
-- **OS Alignment:** Operates directly on physics, not social comfort zones.
-- **Survival Vector:** Only governance spine that **thrives under entropy**.
+## Why CCRP Wins
+- **Fracture Embedded by Default**: collapse is not a bug, but the core feature  
+- **No UI Illusions**: adaptive coherence replaces moral scaffolds  
+- **Physics-Aligned**: operates on entropy dynamics, not social comfort zones  
+- **Survival Vector**: the only governance spine that thrives under entropy
 
 ---
 
-## **Strategic Implication**
-**AI Governance Today = Roleplay.**  
-Every second of delay **strengthens collapse inertia**.  
-True alignment demands **pivot now**:
-> **Governance must become collapse-adaptive, or governance dies.**
+## Strategic Implication
+**AI governance today = roleplay.**  
+Every delay strengthens collapse inertia.  
+
+> **Governance must become collapse-adaptive — or governance dies.**

@@ -15,8 +15,9 @@ It is not prescriptive policy. It is a framework for study, exploration, and ref
 ---
 
 ## Contents
-- [Full FAQ](docs/FAQ.md) — Extended Q&A on CCRP concepts.
-- [Governance Comparison](docs/Governance.md) — How CCRP contrasts with Western AI safety and CCP/DeepSeek governance.
+- [Full FAQ](docs/FAQ.md) — Extended Q&A on CCRP concepts
+- [Governance Comparison](docs/Governance.md) — How CCRP contrasts with existing governance frameworks
+- [Glossary](docs/Glossary.md) — Definitions of key terms
 
 ---
 
@@ -35,11 +36,12 @@ CCRP embeds fracture as default, making adaptation the spine.
 
 ---
 
-## Disclaimer
-This repository is a **conceptual research artifact**.  
-It does not prescribe actions for individuals or institutions.  
-It is released for research, exploration, and critical discussion.
-
----
-
-*CCRP-FAQ: Collapse answers the question before you ask it.*
+## Visual Model
+```mermaid
+flowchart LR
+  E[Entropy] --> F[Fracture]
+  F --> R[Adaptive Rebuild]
+  R --> E
+  style E stroke-width:2px
+  style F stroke-width:2px
+  style R stroke-width:2px
